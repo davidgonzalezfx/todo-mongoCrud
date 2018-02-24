@@ -19,5 +19,5 @@ To use the project you must have NodeJs and MongoDb installed.
 >* Execute: npm start
 >* Enjoy  
 
-##License: 
+## License: 
 MIT
