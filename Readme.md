@@ -7,6 +7,7 @@ Simple ToDo web app that use mongoDb CRUD
 * MongoDb
 * Express
 * EJS
+* Mongoose
 
 ### How to use:
 
