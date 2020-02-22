@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon ./src/server.js"
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js"
   },
   "author": "David Gonzalez <dvdramos16@gmail.com> (https://twitter.com/_DvdGonzalez)",
   "license": "MIT",
