@@ -10,9 +10,9 @@
   "author": "David Gonzalez <dvdramos16@gmail.com> (https://twitter.com/_DvdGonzalez)",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "ejs": "^2.5.6",
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "mongoose": "^5.0.6",
     "morgan": "^1.8.2"
   }
